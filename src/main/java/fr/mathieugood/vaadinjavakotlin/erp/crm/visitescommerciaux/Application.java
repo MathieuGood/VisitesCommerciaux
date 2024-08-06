@@ -15,7 +15,7 @@ import org.springframework.context.annotation.PropertySource;
  * @SpringBootApplication Indique que c'est une application Spring Boot.
  * @Theme(value = "svisitescommerciaux") Définit le thème de l'application.
  * @Configuration Indique que cette classe contient des beans de configuration Spring.
- * @PropertySource(value = "classpath:/SVisitesCommerciaux.properties", ignoreResourceNotFound = true) Charge les propriétés de l'application à partir du fichier spécifié.
+ * @PropertySource(value = "classpath:/VisitesCommerciaux.properties", ignoreResourceNotFound = true) Charge les propriétés de l'application à partir du fichier spécifié.
  * @EnableConfigurationProperties(ApplicationProperties.class) Active le support pour les propriétés de configuration.
  * <p>
  * Elle implémente `AppShellConfigurator` qui est une interface de Vaadin pour configurer l'application.
@@ -23,7 +23,7 @@ import org.springframework.context.annotation.PropertySource;
 @SpringBootApplication
 @Theme(value = "svisitescommerciaux")
 @Configuration
-@PropertySource(value = "classpath:/SVisitesCommerciaux.properties", ignoreResourceNotFound = true)
+@PropertySource(value = "classpath:/VisitesCommerciaux.properties", ignoreResourceNotFound = true)
 @EnableConfigurationProperties(ApplicationProperties.class)
 public class Application implements AppShellConfigurator {
     public static void main(String[] args) {
