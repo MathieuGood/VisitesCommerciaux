@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 b420640f6b024ab60e6986c1ec46392ae6cd3415 Mathieu <bon.mathieu@gmail.com> 1719911971 +0200	clone: from ssh://192.168.10.20/home/adhelios/adhgit-public/adhprodmetier-git/adhbca-git/SVisitesCommerciaux.git
+b420640f6b024ab60e6986c1ec46392ae6cd3415 aa6ca0d87487828f4663e7d2aa3a20b6879005ce Mathieu <bon.mathieu@gmail.com> 1719911982 +0200	checkout: moving from master to develop
+aa6ca0d87487828f4663e7d2aa3a20b6879005ce 9a84df8a3a400e9da07789e722a2011401a7e291 Mathieu <bon.mathieu@gmail.com> 1719912409 +0200	commit: Typo
+9a84df8a3a400e9da07789e722a2011401a7e291 03fd7eed82cbfba4a1be670a0dc0a1e768fcbcdf Mathieu <bon.mathieu@gmail.com> 1719914332 +0200	commit: Suppression commentaire inutile
+03fd7eed82cbfba4a1be670a0dc0a1e768fcbcdf 36ca0213a36f300bfef04c378ddd0780542952f6 Mathieu <bon.mathieu@gmail.com> 1720015932 +0200	commit: MAJ Version Vaadin
+36ca0213a36f300bfef04c378ddd0780542952f6 4e4cce17bfaf142b288d76f35a94e68779394c60 Mathieu <bon.mathieu@gmail.com> 1720016970 +0200	commit: Ajout page de garde
+4e4cce17bfaf142b288d76f35a94e68779394c60 93c2315a914820d840b4dcc1816fced987498a55 Mathieu <bon.mathieu@gmail.com> 1720017585 +0200	commit: Modification page de garde
+93c2315a914820d840b4dcc1816fced987498a55 3d9d87e613370170ae965f68a21853c395732547 Mathieu <bon.mathieu@gmail.com> 1720162892 +0200	commit: Changement de l'ordre des imports pour tenter de résoudre les erreurs de compilation Java/Kotlin.
+3d9d87e613370170ae965f68a21853c395732547 2616e472a9d009cfd3c7700fffdd88fdac4f82d2 Mathieu <bon.mathieu@gmail.com> 1720169283 +0200	merge origin/develop: Fast-forward
+2616e472a9d009cfd3c7700fffdd88fdac4f82d2 069321f128201c22f767c687d77e654fcfe9d12e Mathieu <bon.mathieu@gmail.com> 1720177701 +0200	commit: Changement de l'ordre des imports pour résoudre les erreurs de compilation Java/Kotlin.
+069321f128201c22f767c687d77e654fcfe9d12e d522f76dbee6706bdb223505a104e3ed93dd5591 Mathieu <bon.mathieu@gmail.com> 1720177774 +0200	commit: Ajout d'une documentation technique récapitulant la structuration de l'application.
+d522f76dbee6706bdb223505a104e3ed93dd5591 de8d6c675a1f665b12f9ee2a5c86ad8e90d74594 Mathieu <bon.mathieu@gmail.com> 1720177838 +0200	commit: Modifications mineures
+de8d6c675a1f665b12f9ee2a5c86ad8e90d74594 98a2ad439be72be245247827aa5551c189f47a1e Mathieu <bon.mathieu@gmail.com> 1720180746 +0200	merge origin/develop: Fast-forward
+98a2ad439be72be245247827aa5551c189f47a1e ee47e33dbb4c6051173ad66d90146a996af67606 Mathieu <bon.mathieu@gmail.com> 1720180797 +0200	commit: Déplacement de fichier
+ee47e33dbb4c6051173ad66d90146a996af67606 d312e29c7e4a25031ede1d2ae376ccb0f50602a4 Mathieu <bon.mathieu@gmail.com> 1720181507 +0200	commit: Mise à jour des properties dans documentation
+d312e29c7e4a25031ede1d2ae376ccb0f50602a4 9d5ee7d378823fe5c585343d85c5b127221854bb Mathieu <bon.mathieu@gmail.com> 1720182102 +0200	commit: Réencodage de application.properties en UTF-8
+9d5ee7d378823fe5c585343d85c5b127221854bb 0c449f8f45b379a87d8870aa61fa5e5dc4b3a135 Mathieu <bon.mathieu@gmail.com> 1720184527 +0200	commit: Réencodage de SVisitesCommerciaux.properties en UTF-8
+0c449f8f45b379a87d8870aa61fa5e5dc4b3a135 1220b71a16790776e6a3f6c4149334bebb012a10 Mathieu <bon.mathieu@gmail.com> 1720514200 +0200	commit: Modification de l'emplacement du fichier SVisitesCommerciaux.properties
+1220b71a16790776e6a3f6c4149334bebb012a10 1220b71a16790776e6a3f6c4149334bebb012a10 Mathieu <bon.mathieu@gmail.com> 1720515552 +0200	reset: moving to 1220b71a16790776e6a3f6c4149334bebb012a10
+1220b71a16790776e6a3f6c4149334bebb012a10 8d30ef7592186c5d7369e023bd6aaf1a364b5d39 Mathieu <bon.mathieu@gmail.com> 1722924774 +0200	commit: Typo
